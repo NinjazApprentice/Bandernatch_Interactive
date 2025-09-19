@@ -1,0 +1,12 @@
+1. Drag whole folder onto google chrome and open Bandersnatch.html file
+2. press spacebar to use.
+3. controls can be found in the readme or else here they are:
+
+
+## Controls
+
+* <kbd>F</kbd> - Toggle fullscreen
+* <kbd>R</kbd> - Restart video
+* <kbd>→</kbd> - Jump to the next segment (or to the next interaction zone)
+* <kbd>←</kbd> - Jump to the previous segment
+* <kbd>Space</kbd> - Toggle play and pause
